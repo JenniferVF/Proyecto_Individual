@@ -1,6 +1,6 @@
 ## Proyecto Individual
 
-# Estudiante: Jennifer Villalobos B67751
+### Estudiante: Jennifer Villalobos B67751
 
 Repositorio de la página personal desarrollada en WordPress.
 
